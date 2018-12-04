@@ -1,0 +1,25 @@
+{
+  "name": "codepens",
+  "version": "1.0.0",
+  "description": "Curated list of some of my Codepen development projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredsiika/codepens.git"
+  },
+  "keywords": [
+    "codepen",
+    "sandbox",
+    "portfolio",
+    "javascript"
+  ],
+  "author": "Fred Siika",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredsiika/codepens/issues"
+  },
+  "homepage": "https://github.com/fredsiika/codepens#readme"
+}
