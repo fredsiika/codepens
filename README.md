@@ -15,3 +15,4 @@ Move your Mouse and Play with Reactjs "ES6"
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### Contributors
+[Fred Siika](https://github.com/fredsiika)
