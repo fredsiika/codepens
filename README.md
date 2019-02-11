@@ -1,5 +1,4 @@
 # The CodePen Sandbox
----
 **Curated list of some of my latest [Codepen](https://codepen.io/fredsiika) development projects**
 
 
