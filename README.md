@@ -17,4 +17,3 @@ Move your Mouse and Play with Reactjs "ES6"
 [Fred Siika](https://github.com/fredsiika)
 
 ### Inspiration
-Codepens
