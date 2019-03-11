@@ -1,8 +1,9 @@
-/**
+/*
 |--------------------------------------------------
  * Title: Starter Code 
  * Author: Fred Siika
- * Description: This code defines a React componenet called `LikeButton`.
+ * Description: This code defines a React componenet 
+ * called `LikeButton`.
 |--------------------------------------------------
 */
 'use strict'
